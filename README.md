@@ -7,7 +7,7 @@
 
 - Clone or download [python-phishing-url-detection](https://github.com/vinkeshvinaayak/Phishing-URL-Detection/) 
 
-`git clone git@github.com:sannjayy/python-phishing-url-detection.git`
+`git clone git@github.com/vinkeshvinaayak/Phishing-URL-Detection.git`
 
 
 - Create a virtual environment
